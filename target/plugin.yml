@@ -1,0 +1,6 @@
+name: PacketListenerApi
+main: org.inventivetalent.packetlistener.PacketListenerPlugin
+author: inventivetalent
+version: 3.4.4
+
+loadbefore: [ProtocolSupport]

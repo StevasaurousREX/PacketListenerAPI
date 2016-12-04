@@ -1,2 +1,6 @@
 .idea/
 *.iml
+API/target/
+1_8/target/
+1_7/target/
+*.MF
